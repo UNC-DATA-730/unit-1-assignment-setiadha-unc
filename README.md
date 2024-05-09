@@ -1,7 +1,7 @@
 # `DATA 730 assignment #1 repository`
 
 > :warning: **Do not clone this repository directly!**
-> Use the invite link instead: https://classroom.github.com/a/xDBr89fK
+> Use the invite link instead: https://github.com/UNC-DATA-730/assignments
 
 ## Instructions
 
